@@ -5,8 +5,7 @@ export class Stately {
   }
 
   createState(name, defaultValue = "?") {
-    Object.defineProperty(this.StateInformation, name, 
-  {value: defaultValue, writable: true}); 
+    Object.defineProperty(this.StateInformation, name, {value: defaultValue, writable: true}); 
   }
 
   initializeState() {
