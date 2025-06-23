@@ -1,0 +1,21 @@
+{
+  "name": "state-of-mind",
+  "version": "0.9.0",
+  "description": "Experimental web component framework like React and extensibility.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/hacksoft-net/state-of-mind-ui"
+  },
+  "keywords": [
+    "ui",
+    "web",
+    "components",
+    "frontend"
+  ],
+  "author": "haektalks",
+  "license": "SEE LICENSE IN LICENSE"
+}
